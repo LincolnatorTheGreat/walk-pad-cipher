@@ -1,0 +1,7 @@
+# never commit challenge keys
+*PRIVATE*
+__pycache__/
+*.pyc
+attacks/guess_determine
+attacks/known_combiner
+attacks/walk_everything
